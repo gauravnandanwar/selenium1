@@ -5,10 +5,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
-public class FbHomePage {
+public class HomePage {
 	WebDriver driver;
 
-    public FbHomePage(WebDriver driver){ 
+    public HomePage(WebDriver driver){ 
             this.driver=driver; 
     }
 
